@@ -1,0 +1,12 @@
+{
+  "name": "tool-ldscripts-gd32",
+  "version": "0.1.0",
+  "description": "Linker scripts pack for GigaDevice GD32 platform",
+  "keywords": [
+    "linker scripts",
+    "GigaDevice",
+    "gd32"
+  ],
+  "homepage": "https://www.gigadevice.com/products/microcontrollers/gd32/arm-cortex-m3/",
+  "license": "Apache-2.0"
+}
